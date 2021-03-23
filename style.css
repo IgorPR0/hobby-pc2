@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to right, rgba(16, 163, 221, 0.287) 0%, rgba(17, 79, 160, 0.26) 100%);
+}
+h1{
+    text-align: center;
+    color: rgba(2, 35, 61, 0.849);
+}
+h3{
+    color: rgb(0, 76, 148);
+}
+.meu-conteiner{
+    display: flex; height: 50px; justify-content: space-around; align-items: center;
+}
+.item-conteiner{
+    color: rgb(1, 45, 104);
+}
+img{
+    border-width: 2px; border-style: solid; border-color: black;
+}
+.texto{
+    display: block; width: 500px;
+    color: rgba(6, 60, 158, 0.979);
+}
